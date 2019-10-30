@@ -15,6 +15,7 @@ function loadname() {
     const currentUser = localStorage.getItem(USER_LS);
     if(currentUser === null) {
         //유저 없음
+        console.log('없')
     } else{
         //유저 있음
         paintGreeting(currentUser);
