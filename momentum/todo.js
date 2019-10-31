@@ -14,7 +14,8 @@ function handleSubmit(event) {
 }
 
 function loadToDos() {
-    const toDos = localStorage.getItem(TODOS_LS);
+    const toDos = localStorage.getItem(TODOS_LS);nnnnnnnnnnnnnnnnnnnnnnn
+    
     if(toDos !== null) {
         //List 추가하기
     }
