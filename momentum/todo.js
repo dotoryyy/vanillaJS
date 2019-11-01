@@ -15,7 +15,7 @@ function handleSubmit(event) {
 
 function loadToDos() {
     const toDos = localStorage.getItem(TODOS_LS);nnnnnnnnnnnnnnnnnnnnnnn
-    
+        //까르보네피자 고구마피자 핫치킨피자
     if(toDos !== null) {
         //List 추가하기
     }
