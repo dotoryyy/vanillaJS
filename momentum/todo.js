@@ -5,7 +5,7 @@ toDoList = document.querySelector('.js-toDoList');
 const TODOS_LS = 'toDos';
 
 function paintToDo(text) {
-    
+    //
 }
 
 function handleSubmit(event) {
